@@ -47,19 +47,19 @@ main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
-	color: pink;
+	color: orange;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
-	color: pink;
+	color: orange;
 }
 
 .icons-social i {
 	padding: 10px;
-	color: pink;
+	color: orange;
 }
 
 .devto {
