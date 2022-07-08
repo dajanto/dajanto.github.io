@@ -34,6 +34,12 @@ html {
 
 /* Custom Styles */
 
+vanta {
+	height: 1000px;
+	width: 100%;
+	position: absolute;
+}
+
 main {
 	display: flex;
 	flex-direction: column;
